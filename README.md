@@ -1,10 +1,9 @@
 ### Oie 🤠, Eu sou Ana Luíza
 #### Eu faço alguns códigos e design 😁
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analarap&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analarap&layout=compact&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=analarap&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analarap&layout=compact&theme=tokyonight)
 
 
 <!--

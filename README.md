@@ -4,6 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analarap&hide=javascript,css,scss,html&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=analarap&theme=dracula&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=analarap&show_icons=true&theme=tokyonight)
+
 <!--
 **analuztx/analuztx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

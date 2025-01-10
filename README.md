@@ -1,5 +1,6 @@
-### Oie 🤠, Eu sou Ana Luíza
+### Oi 🤠, Eu sou Ana Luíza
 #### Eu faço alguns códigos e design 😁
+Sou formada em Técnico de Desenvolvimento de Sistemas e estou me formando no ensino superior em Desenvolvimento de Software Multiplataforma.  
 
 ### Habilidades técnicas:
 
